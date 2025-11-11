@@ -9,12 +9,12 @@ number:
 date:
 consensus: true
 v: 3
-area: ""
-workgroup: "IANA"
+area: "OPS"
+workgroup: "NETMOD"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - IANA
+ - YANG
+ - Guidance
 venue:
   group: "IANA"
   type: "Internet Assigned Numbers Authority"
@@ -26,8 +26,8 @@ venue:
 author:
  -
     fullname: "Robert Wilton"
-    organization: Your Organization Here
-    email: "robert.public@wilton.org.uk"
+    organization: Cisco
+    email: "rwilton@cisco.com"
 
 normative:
 
